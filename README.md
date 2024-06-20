@@ -21,7 +21,7 @@ drive.mount('/content/drive')
 3. cat_dog data 압축풀기
 ```py
 # change directory # Local PC로 실습하는 경우 실행 x
-%cd LGES2023_CNN/
+%cd LGES_240621/
 ```
 ```py
 dog_cat_zip = zipfile.ZipFile('./data/dog_cat.zip')
