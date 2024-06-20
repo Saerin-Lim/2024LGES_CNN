@@ -1,6 +1,6 @@
 # LGES_240621
 
-### 실습 준비
+### 실습 준비(새로운 colab 파일에서 실행)
 
 0. 필요 패키지
 ```py
@@ -40,3 +40,6 @@ heros_zip.close()
 ```py
 !pip install torchsummary
 ```
+
+6. 해당 tutorial 파일 열기
+파일 -> 드라이브에서 찾기 -> 내 드라이브 -> LGES_240621 -> pytorch_tutorial_~~.ipynb
