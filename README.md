@@ -15,7 +15,7 @@ drive.mount('/content/drive')
 
 2. git에서 가져오기
 ```py
-!git clone https://github.com/Saerin-Lim/LGES2023_CNN.git
+!git clone https://github.com/Saerin-Lim/LGES_240621.git
 ```
 
 3. cat_dog data 압축풀기
